@@ -28,3 +28,5 @@
 
 ## Algorithm
 - 2024.01.29 [Array_01](./git/2024.01.29_Array01.md)
+
+- 2024.01.30 [Array_02](./git/2024.01.30_Array02.md)
