@@ -38,3 +38,5 @@
 - 2024.02.02 [Solution_01](./git/2024.02.02_Solution01.md)
 
 - 2024.02.05 [String_01](./git/2024.02.05_String01.md)
+
+- 2024.02.06 [String_02](./git/2024.02.06_String02.md)
