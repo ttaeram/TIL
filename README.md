@@ -62,3 +62,5 @@
 - 2024.02.23 [Start_02](./TIL/2024.02.23_Start02.md)
 
 - 2024.02.26 [Solution_02](./TIL/2024.02.26_Solution02.md)
+
+- 2024.02.27 [Bruteforce_01](./TIL/2024.02.27_Bruteforce01.md)
