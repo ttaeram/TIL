@@ -68,3 +68,5 @@
 - 2024.02.28 [Bruteforce_02](./TIL/2024.02.28_Bruteforce02.md)
 
 - 2024.02.29 [Solution_03](./TIL/2024.02.29_Solution03.md)
+
+- 2024.03.05 [Computational_thingking_01](./TIL/2024.03.05_Computiational_Thinking01.md)
