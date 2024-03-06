@@ -70,3 +70,5 @@
 - 2024.02.29 [Solution_03](./TIL/2024.02.29_Solution03.md)
 
 - 2024.03.05 [Computational_thingking_01](./TIL/2024.03.05_Computiational_Thinking01.md)
+
+- 2024.03.06 [Web_HTML_01](./TIL/2024.03.06_Web01.md)
