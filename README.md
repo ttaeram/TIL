@@ -79,3 +79,6 @@
 - 2024.03.08 [Bootstrap_01](./TIL/2024.03.08_Web03.md)
 
 - 2024.03.11 [Rwsponsive_Web_01](./TIL/2024.03.11_Web04.md)
+
+## Django
+- 2024.03.12 [Django_01](./TIL/2024.03.12_Django01.md)
