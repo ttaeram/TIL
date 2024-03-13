@@ -82,3 +82,5 @@
 
 ## Django
 - 2024.03.12 [Django_01](./TIL/2024.03.12_Django01.md)
+
+- 2024.03.13 [Django_02](./TIL/2024.03.13_Django02.md)
