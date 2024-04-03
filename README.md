@@ -113,3 +113,5 @@
 
 ## DataBase
 - 2024.04.02 [DataBase_01](./TIL/2024.04.02_DataBase01.md)
+
+- 2024.04.03 [DataBase_02](./TIL/2024.04.03_DataBase02.md)
