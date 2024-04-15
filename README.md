@@ -3,7 +3,9 @@
 ## git
 - 2024.01.11 [git 기본 정리](./TIL/2024.01.11_git_base.md)    
 
-- 2024.01.12 [git 원격 저장소 사용](./TIL/2024.01.12_git_remote.md)    
+- 2024.01.12 [git 원격 저장소 사용](./TIL/2024.01.12_git_remote.md)
+
+- 2024.04.12 [git 추가 정리](./TIL/2024.04.12_git_practice.md)
 
 ## Python
 - 2024.01.15 [기본 문법 제어문](./TIL/2024.01.15_Program.md)    
@@ -114,6 +116,8 @@
 - 2024.04.11 [REST_API_01](./TIL/2024.04.11_RestAPI01.md)
 
 - 2024.04.12 [PJT_05](./TIL/2024.04.12_PJT05.md)
+
+- 2024.04.15 [REST_API_02](./TIL/2024.04.15_RestAPI02.md)
 
 ## DataBase
 - 2024.04.02 [DataBase_01](./TIL/2024.04.02_DataBase01.md)
