@@ -1,18 +1,20 @@
 # TIL
 
 ## git
-- 2024.01.11 [git 기본 정리](./TIL/2024.01.11_git_base.md)    
+
+- 2024.01.11 [git 기본 정리](./TIL/2024.01.11_git_base.md)
 
 - 2024.01.12 [git 원격 저장소 사용](./TIL/2024.01.12_git_remote.md)
 
 - 2024.04.12 [git 추가 정리](./TIL/2024.04.12_git_practice.md)
 
 ## Python
-- 2024.01.15 [기본 문법 제어문](./TIL/2024.01.15_Program.md)    
 
-- 2024.01.16 [데이터 타입](./TIL/2024.01.16_Python02.md)    
+- 2024.01.15 [기본 문법 제어문](./TIL/2024.01.15_Program.md)
 
-- 2024.01.17 [함수01](./TIL/2024.01.17_Function.md)    
+- 2024.01.16 [데이터 타입](./TIL/2024.01.16_Python02.md)
+
+- 2024.01.17 [함수01](./TIL/2024.01.17_Function.md)
 
 - 2024.01.18 [함수02](./TIL/2024.01.18_Function2.md)
 
@@ -29,6 +31,7 @@
 - 2024.01.26 [관통PJT02](./TIL/2024.01.26_PJT02.md)
 
 ## Algorithm
+
 - 2024.01.29 [Array_01](./TIL/2024.01.29_Array01.md)
 
 - 2024.01.30 [Array_02](./TIL/2024.01.30_Array02.md)
@@ -84,6 +87,7 @@
 - 2024.03.22 [Solution_04](./TIL/2024.03.22_Solution04.md)
 
 ## Web
+
 - 2024.03.06 [HTML_01](./TIL/2024.03.06_Web01.md)
 
 - 2024.03.07 [HTML_02](./TIL/2024.03.07_Web02.md)
@@ -93,6 +97,7 @@
 - 2024.03.11 [Rwsponsive_Web_01](./TIL/2024.03.11_Web04.md)
 
 ## Django
+
 - 2024.03.12 [Django_01](./TIL/2024.03.12_Django01.md)
 
 - 2024.03.13 [Django_02](./TIL/2024.03.13_Django02.md)
@@ -123,7 +128,10 @@
 
 - 2024.04.26 [PJT_07](./TIL/2024.04.26_PJT07.md)
 
+- 2024.05.03 [PJT_08](./TIL/2024.05.03_PJT08.md)
+
 ## DataBase
+
 - 2024.04.02 [DataBase_01](./TIL/2024.04.02_DataBase01.md)
 
 - 2024.04.03 [DataBase_02](./TIL/2024.04.03_DataBase02.md)
@@ -137,6 +145,7 @@
 - 2024.04.09 [DataBase_05](./TIL/2024.04.09_DataBase05.md)
 
 ## JavaScript
+
 - 2024.04.16 [JavaScript_01](./TIL/2024.04.16_JavaScript01.md)
 
 - 2024.04.17 [JavaScript_02](./TIL/2024.04.17_JavaScript02.md)
@@ -150,6 +159,7 @@
 - 2024.04.24 [JavaScript_06](./TIL/2024.04.24_JavaScript06.md)
 
 ## Vue
+
 - 2024.04.25 [Vue_01](./TIL/2024.04.25_Vue01.md)
 
 - 2024.04.29 [Vue_02](./TIL/2024.04.29_Vue02.md)
