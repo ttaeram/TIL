@@ -229,3 +229,7 @@
 - 2024.06.29 [C++_plus_01](./TIL/C++/2024.06.29_C++plus01.md)
 
 - 2024.06.29 [C++_plus_02](./TIL/C++/2024.06.29_C++plus02.md)
+
+## TypeScript
+
+- 2024.09.02 [TypeScript_01](./TIL/TypeScript/2024.09.02_TypeScript01.md)
