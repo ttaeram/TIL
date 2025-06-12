@@ -57,6 +57,8 @@
 
 - [Chapter 25: ROS 프로그래밍 기초 (C++)](./2025.06.11_Ch25_Cpp_basic.md)
 
+- [Chapter 27: 토픽, 서비스, 액션 인터페이스](./2025.06.11_Ch27_Topic_service_action_interface.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
