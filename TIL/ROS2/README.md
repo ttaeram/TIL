@@ -59,6 +59,8 @@
 
 - [Chapter 27: 토픽, 서비스, 액션 인터페이스](./2025.06.11_Ch27_Topic_service_action_interface.md)
 
+- [Chapter 28: ROS 2 패키지 설계 (Python)](./2025.06.12_Ch28_ROS2_package_design_Python.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
