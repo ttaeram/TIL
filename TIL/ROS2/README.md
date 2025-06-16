@@ -63,6 +63,10 @@
 
 - [Chapter 29: 토픽 프로그래밍 (Python)](./2025.06.16_Ch29_Topic_programming_Python.md)
 
+- [Chapter 30: 서비스 프로그래밍 (Python)](./2025.06.16_Ch30_Service_programming_Python.md)
+
+- [Chapter 31: 액션 프로그래밍 (Python)](./2025.06.16_Ch31_Action_programming_Python.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
