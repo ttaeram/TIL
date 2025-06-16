@@ -61,6 +61,8 @@
 
 - [Chapter 28: ROS 2 패키지 설계 (Python)](./2025.06.12_Ch28_ROS2_package_design_Python.md)
 
+- [Chapter 29: 토픽 프로그래밍 (Python)](./2025.06.16_Ch29_Topic_programming_Python.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
