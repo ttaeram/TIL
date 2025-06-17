@@ -69,6 +69,8 @@
 
 - [Chapter 32: 파라미터 프로그래밍 (Python)](./2025.06.17_Ch32_Param_programming_Python.md)
 
+- [Chapter 33: 실행 인자 프로그래밍 (Python)](./2025.06.17_Ch33_Argument_programming_Python.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
