@@ -73,6 +73,8 @@
 
 - [Chapter 34: ROS 2 패키지 설계 (C++)](./2025.06.17_Ch34_ROS2_package_design_C++.md)
 
+- [Chapter 35: 토픽 프로그래밍 (C++)](./2025.06.17_Ch35_Topic_programming_C++.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
