@@ -79,6 +79,8 @@
 
 - [Chapter 37: 액션 프로그래밍 (C++)](./2025.06.18_Ch37_Action_programming_C++.md)
 
+- [Chapter 38: 파라미터 프로그래밍 (C++)](./2025.06.19_Ch38_Param_programming_C++.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
