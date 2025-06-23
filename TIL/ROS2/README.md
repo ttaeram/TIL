@@ -88,5 +88,9 @@
 - [Chapter 40: 런치 프로그래밍 (Python, C++)](./2025.06.19_Ch40_Launch_programming_Python_C++.md)
 
 
+## ROS 2 심화 프로그래밍
+- [Chapter 42: Logging](./2025.06.24_Ch42_Logging.md)
+
+
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
