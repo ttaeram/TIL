@@ -91,6 +91,8 @@
 ## ROS 2 심화 프로그래밍
 - [Chapter 42: Logging](./2025.06.24_Ch42_Logging.md)
 
+- [Chapter 43: ROS 2 CLI](./2025.06.24_Ch43_ROS2_CLI.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
