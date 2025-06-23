@@ -48,6 +48,8 @@
 
 - [Chapter 22: 패키지 파일 (환경 설정, 빌드 설정)](./2025.06.10_Ch22_Package_file.md)
 
+- [Chapter 41: 시간 (Time, Duration, Clock, Rate)](./2025.06.23_Ch41_Time_duration_clock_rate.md)
+
 
 ## ROS 2 기본 프로그래밍
 
