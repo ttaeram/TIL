@@ -93,6 +93,8 @@
 
 - [Chapter 43: ROS 2 CLI](./2025.06.24_Ch43_ROS2_CLI.md)
 
+- [Chapter 44: Intra-process communication](./2025.06.25_Ch44_Intra_process_communication.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
