@@ -101,6 +101,8 @@
 
 - [Chapter 47: RQt plugin](./2025.06.25_Ch47_RQt_plugin.md)
 
+- [Chapter 48: Lifecycle](./2025.06.25_Ch48_Lifecycle.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
