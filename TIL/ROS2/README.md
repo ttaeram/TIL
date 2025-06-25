@@ -97,6 +97,8 @@
 
 - [Chapter 45: QoS](./2025.06.25_Ch45_QoS.md)
 
+- [Chapter 46: Component](./2025.06.25_Ch46_Component.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
