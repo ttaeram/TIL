@@ -99,6 +99,8 @@
 
 - [Chapter 46: Component](./2025.06.25_Ch46_Component.md)
 
+- [Chapter 47: RQt plugin](./2025.06.25_Ch47_RQt_plugin.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
