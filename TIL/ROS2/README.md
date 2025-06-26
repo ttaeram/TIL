@@ -103,6 +103,8 @@
 
 - [Chapter 48: Lifecycle](./2025.06.25_Ch48_Lifecycle.md)
 
+- [Chapter 49: Security](./2025.06.26_Ch49_Security.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
