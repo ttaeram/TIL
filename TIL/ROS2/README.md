@@ -105,6 +105,8 @@
 
 - [Chapter 49: Security](./2025.06.26_Ch49_Security.md)
 
+- [Chapter 50: Real-time](./2025.06.26_Ch50_Real_time.md)
+
 
 ## 기타
 - [Chapter 26: ROS 2 Tips](./2025.06.11_Ch26_ROS2_tips.md)
